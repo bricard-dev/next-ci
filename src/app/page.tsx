@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>Homie</h1>
-      <p>This my home page. I&apos;m a software engineer.</p>
+      <h1>Home</h1>
+      <p>This my home page.</p>
     </main>
   );
 }
